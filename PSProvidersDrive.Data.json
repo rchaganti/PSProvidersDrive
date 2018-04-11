@@ -1,0 +1,213 @@
+{
+    "rchaganti" : [
+        {
+            "Name" : "PSGalleryDrive",
+            "Description" : "Browse PS Gallery modules and DSC resources as file system.",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/PSGalleryDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },
+        {
+            "Name" : "PSProvidersDrive",
+            "Description" : "Browse PS Provider drive modules implemented using SHiPS.",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/PSProvidersDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },        
+        {
+            "Name" : "PSConfDrive",
+            "Description" : "Browse PS Conference EU Agenda as file system.",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/PSConfDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },        
+        {  
+            "Name" : "FailoverClusterDrive",
+            "Description" : "Failover Clusters PS Drive based on SHiPS provider framework",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/FailoverClusterDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },
+        {
+            "Name" : "HyperVDrive",
+            "Description" : "Browse Hyper-V host server artifacts as PowerShell Drive",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/HyperVDrive",
+                "Brnach" : "master"
+            },
+            "Command" : ""
+        },        
+        {
+            "Name" : "DellPESCPDrive",
+            "Description" : "Browse Dell EMC PowerEdge Systems configuration as PS Drive",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/DellPESCPDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }
+    ],
+    "DexterPOSH" : [
+        {
+            "Name" : "DhcpPSDrive",
+            "Description" : "Exposes DHCP Servers in a DC as a mapped PSDrive",
+            "PowerShellGallery" : {            
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/DexterPOSH/DhcpPSDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },        
+        {
+            "Name" : "PESystem",
+            "Description" : "Maps PowerEdge systems as a PowerShell PSDrive",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery": false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/DexterPOSH/PESystem",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }
+    ],
+    "PowerShell" : [
+        {
+            "Name" : "CimPSDrive",
+            "Description" : "Navigate CIM namespaces and classes as a file system",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : true,
+                "GalleryName" : "CimPSDrive"
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/PowerShell/CimPSDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },
+        {
+            "Name" : "AzurePSDrive",
+            "Description" : "Navigate Azure Resources Just like A FileSystem",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : true,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/PowerShell/AzurePSDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }        
+    ],
+    "stefanstranger" : [
+        {
+            "Name" : "VSTeam",
+            "Description" : "Maps VSTS account as a PowerShell Drive",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : true,
+                "GalleryName" : "VSTeam"
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/DarqueWarrior/vsteam",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }
+    ],
+    "DungKHoang" : [
+        {
+            "Name" : "OneViewPSDrive",
+            "Description" : "Browse OneView resources just like a file system",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/DungKHoang/OneViewPSDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }
+    ],
+    "mattmcnabb" : [
+        {
+            "Name" : "SolarSystem",
+            "Description" : "A demonstration of Microsoft's SHiPS module for creating PowerShell providers with arbitrary hierarchical data",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/mattmcnabb/SolarSystem",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }
+    ],
+    "glennsarti" : [
+        {
+            "Name" : "PuppetPSDrive",
+            "Description" : "Puppet PowerShell Provider is a SHiPS based PowerShell provider to simplify navigation and discovery of Puppet Console items",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/glennsarti/PuppetPSDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }        
+    ],
+    "SeeminglyScience" : [
+        {
+            "Name" : "EditorAstProvider",
+            "Description" : "Adds a PSDrive containing the abstract syntax tree (AST) of the current file",
+            "PowerShellGallery" : {
+                "IsAvailableInGallery" : false,
+                "GalleryName" : ""
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/SeeminglyScience/EditorAstProvider",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        }         
+    ]
+}
