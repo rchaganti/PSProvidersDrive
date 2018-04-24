@@ -69,11 +69,24 @@
             "Name" : "DellPESCPDrive",
             "Description" : "Browse Dell EMC PowerEdge Systems configuration as PS Drive",
             "PowerShellGallery" : {
+                "IsAvailableInGallery": true,
+                "GalleryName" : "DellPESCPDrive"
+            },
+            "GitHub" : {
+                "Repository" : "https://github.com/rchaganti/DellPESCPDrive",
+                "Branch" : "master"
+            },
+            "Command" : ""
+        },        
+        {
+            "Name" : "EventLogDrive",
+            "Description" : "Browse Windows Event Logs as PS Drive",
+            "PowerShellGallery" : {
                 "IsAvailableInGallery": false,
                 "GalleryName" : ""
             },
             "GitHub" : {
-                "Repository" : "https://github.com/rchaganti/DellPESCPDrive",
+                "Repository" : "https://github.com/rchaganti/EventLogDrive",
                 "Branch" : "master"
             },
             "Command" : ""
